@@ -69,7 +69,7 @@ if __name__ == "__main__":
         opt = int(
             input(
             """
-[Student mark managament]
+[Student mark management]
 1. Insert students
 2. Insert courses
 3. List student info
