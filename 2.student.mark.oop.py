@@ -58,7 +58,7 @@ def courses_input(cs_list):
 def mark_input(cs_list, std_list):
     print("----------------------")
     csid = input("Select the course by Course ID: ")
-    cs = next((cs for cs in cs_list if cs[0] == csid), None)
+    cs = next((cs for cs in cs_list if cs.i == csid), None)
     # cs = [cs for cs in cs_list if cs[0] == csid][0]
     if not cs:
         print("Course not found.")
