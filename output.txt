@@ -1,0 +1,143 @@
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: ----------------------
+Number of students: Student number 1:
+Student id: Student name: Student DoB: ----------------------
+Student number 2:
+Student id: Student name: Student DoB: ----------------------
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: ----------------------
+Number of courses: Course number 1:
+Course id: Course name: Course credits: ----------------------
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: ----------------------
+There are 2 students in the system:
++++
+Student id: i1
+Student name: s1
+Student DoB: 1/1/1
+Student GPA: 0
++++
+Student id: i2
+Student name: s2
+Student DoB: 2/2/2
+Student GPA: 0
+----------------------
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: ----------------------
+There are 1 courses in the system:
++++
+Course id: ci1
+Course name: c1
+Course credits: 4
+Course marks:
+----------------------
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: ----------------------
+Select the course by Course ID: Please insert student marks:
++++
+Student s1 [i1] mark: +++
+Student s2 [i2] mark: ----------------------
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: ----------------------
+Calculating GPA for all students:
++++
+Student s1 [i1] has GPA: 3.3
++++
+Student s2 [i2] has GPA: 3.4
+----------------------
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: ----------------------
+Students sorted by GPA:
++++
+Student id: i2
+Student name: s2
+Student DoB: 2/2/2
+Student GPA: 3.4444444
++++
+Student id: i1
+Student name: s1
+Student DoB: 1/1/1
+Student GPA: 3.25555555
+----------------------
+
+[Student Mark Management System]
+1. Insert students
+2. Insert courses
+3. List student info
+4. List course info
+5. Add marks
+6. Display marks
+7. Calculate GPA
+8. Sort by GPA
+9. Exit
+Option: Exiting program.

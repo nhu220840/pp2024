@@ -133,6 +133,10 @@ def sort_by_gpa(std_list):
 
 ####################### MARK MANAGEMENT SYSTEM #######################
 
+# How to run program using Command Line Arguments with input file (IO Redirection):
+# run command in git bash/linux terminal:
+# rm output.txt && python '3.student.mark.oop.math.py' < input.txt > output.txt
+
 if __name__ == "__main__":
     std_list = []
     cs_list = []
@@ -180,6 +184,7 @@ Option: """
                 print(st)
             print("----------------------")
         elif option == 9:
+            print("Exiting program.")
             break
         else:
             print("Invalid option.")
